@@ -15,6 +15,3 @@ To launch Jupyter Lab
 
 Run notebook in Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jconwell/fake_news_analysis/HEAD)
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/jconwell/fake_news_analysis/HEAD
- 
