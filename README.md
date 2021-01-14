@@ -1,13 +1,15 @@
-# fake_news_analysis
+# Fake News Analysis Project
 Mentoring project doing NLP classification
 
-Start Steps
-#Clone the repo
+## Setup Steps
 
-# create a python vertual environment
-python3.6 -m venv .venv
+1. Clone the repo locally
 
-# install requirements to venv
-pip install -r requirements.txt
+2. Create a python vertual environment
+`python3.6 -m venv .venv`
 
+3. Install requirements to venv
+`pip install -r requirements.txt`
 
+To launch Jupyter Lab
+`jupyter lab`
