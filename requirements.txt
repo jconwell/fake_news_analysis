@@ -1,2 +1,5 @@
 jupyterlab
+numpy
 pandas
+sklearn
+matplotlib
